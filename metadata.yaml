@@ -1,0 +1,27 @@
+_repo: Viaje-a-los-Estados-Unidos-Tomo-II_56519
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Prieto, Guillermo
+    aliases:
+    - Fidel
+    - Prieto, José Guillermo Ramón Antonio Agustín
+    - Prieto, Jose Guillermo Ramon Antonio Agustin
+    birthdate: 1818
+    deathdate: 1897
+    gutenberg_agent_id: '45281'
+    url: http://www.gutenberg.org/2009/agents/45281
+    wikipedia: https://en.wikipedia.org/wiki/Guillermo_Prieto
+description: ''
+gutenberg_issued: '2018-02-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56519'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Viaje a los Estados Unidos, Tomo II
+url: http://www.gutenberg.org/ebooks/56519
